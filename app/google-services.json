@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "345169068730",
+    "firebase_url": "https://geofencing-538df-default-rtdb.firebaseio.com",
+    "project_id": "geofencing-538df",
+    "storage_bucket": "geofencing-538df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345169068730:android:4126c39cfc0ac83b1cf883",
+        "android_client_info": {
+          "package_name": "com.example.adavance_geofecing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKxsnERQpqWXUujCx0nBn2GwJTuFGJB4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
